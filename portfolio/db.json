@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"title": "STOMWEB (без бэкенда)",
+		"path": "https://raw.githubusercontent.com/DariaGrekova/db_projects/main/images/stomweb.png",
+		"description": {
+			"url": "https://stomweb-project.vercel.app/",
+			"stack": "Gulp, HTML, SCSS, Vanilla JS",
+			"text": "Проект полностью с нуля, в ходе разработки использовался модульный подход, методология БЭМ, mobile-first, Pixel Perfect. На странице контактов используется API Яндекс карт"
+		}
+	},
+	{
+		"id": 2,
+		"title": "Infinite Family (с бэкендом)",
+		"path": "https://raw.githubusercontent.com/DariaGrekova/db_projects/main/images/inffam.png",
+		"description": {
+			"url": "https://inf-fam.ru/",
+			"stack": "Gulp, HTML, SCSS, Vanilla JS",
+			"text": "Разработка главной страницы с нуля (с шапкой и подвалом), в ходе разработки использовался модульный подход, методология БЭМ, добавление карты на странице контактов (API Яндекс карт)"
+		}
+	},
+	{
+		"id": 3,
+		"title": "Инкубатор Кагальницкая (с бэкендом)",
+		"path": "https://raw.githubusercontent.com/DariaGrekova/db_projects/main/images/100pcs.png",
+		"description": {
+			"url": "https://100штук.рф/",
+			"stack": "Gulp, HTML, CSS, Vanilla JS",
+			"text": "Проект полностью с нуля, в ходе разработки использовалась комбинация методологий БЭМ и OOSCSS."
+		}
+	},
+	{
+		"id": 4,
+		"title": "Телекор (с бэкендом)",
+		"path": "https://raw.githubusercontent.com/DariaGrekova/db_projects/main/images/tdtel.png",
+		"description": {
+			"url": "https://tdtel.ru/about_us/",
+			"stack": "HTML, CSS, Vanilla JS",
+			"text": "Верстка страницы под fullscreen, подключение и настройка библиотеки fullPage.js."
+		}
+	}
+]
